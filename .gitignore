@@ -1,0 +1,19 @@
+# Build outputs
+out/
+target/
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / Package managers (just in case)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
